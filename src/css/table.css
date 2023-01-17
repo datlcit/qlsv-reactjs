@@ -1,0 +1,16 @@
+th {
+    font-size: 24px;
+    text-align: center;
+}
+
+.btn-mark {
+    width: 100%;
+    margin-bottom: 20px;
+    font-weight: bold;
+    font-size: 30px;
+    padding: 30px;
+}
+
+.text-bold {
+    font-weight: bold;
+}
